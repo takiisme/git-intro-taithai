@@ -1,4 +1,4 @@
-# git-intro-taithai
+# git-intro-taithai blahblah
 
 I'm changing the header in my own project
 
