@@ -1,5 +1,7 @@
 # git-intro-taithai
 
+I'm changing the header in my own project
+
 - *I am Tai, an MSc Machine Learning student from Vietnam.*
 - **My hobbies are playing chess and working out.**
 - *I like GitHub because it is convenient for managing my code and collaborating with others.*
