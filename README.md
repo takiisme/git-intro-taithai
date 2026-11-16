@@ -1,6 +1,7 @@
 # git-intro-taithai blahblah
 # git-intro-taithai (provoke)
 
+I've added a new branch. Check it out.
 I'm changing the header in my own project
 
 - *I am Tai, an MSc Machine Learning student from Vietnam.*
