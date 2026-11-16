@@ -20,3 +20,6 @@ Now we change it from online.
 ## Note
 
 Markdown cheatsheet: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
+
+
+-a note for the footer
